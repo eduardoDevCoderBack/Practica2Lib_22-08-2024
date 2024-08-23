@@ -15,7 +15,7 @@ public abstract class MZICR001Abstract extends AbstractLibrary implements MZICR0
 	/**
 	* @param applicationConfigurationService the this.applicationConfigurationService to set
 	*/
-	public void execute setApplicationConfigurationService(ApplicationConfigurationService applicationConfigurationService) {
+	public void setApplicationConfigurationService(ApplicationConfigurationService applicationConfigurationService) {
 		this.applicationConfigurationService = applicationConfigurationService;
 	}
 
